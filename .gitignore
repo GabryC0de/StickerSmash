@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+#prettier
+*.prettierrc
+
 # Expo
 .expo/
 dist/
